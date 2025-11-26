@@ -5,7 +5,7 @@
 Universidad Peruana de Ciencias Aplicadas
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" width="700">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
 # Ingeniería de software
 
@@ -724,7 +724,7 @@ Para la realización del User Task Matrix consideramos las tareas y acciones fre
 
 ### 2.4 Big Picture Event Storming
 
-<img width="512" height="29" alt="55" src="https://github.com/user-attachments/assets/fadc4419-3120-487c-b309-b6b0a1b48c38" />
+<img width="1100" alt="55" src="https://github.com/user-attachments/assets/fadc4419-3120-487c-b309-b6b0a1b48c38" />
 
 ---
 
@@ -753,7 +753,7 @@ Para la realización del User Task Matrix consideramos las tareas y acciones fre
 
 ## 3.1. To - Be Scenario Mapping
 
-<img width="302" height="512" alt="user 1" src="https://github.com/user-attachments/assets/028b6c58-4166-4c14-98b0-0e675a9ed874" />
+<img width="512" height="222" alt="user 1" src="https://github.com/user-attachments/assets/028b6c58-4166-4c14-98b0-0e675a9ed874" />
 
 ## 3.2. User Stories
 
@@ -784,7 +784,7 @@ Para la realización del User Task Matrix consideramos las tareas y acciones fre
 
 ## 3.3. Impact Mapping
 
-<img width="302" height="512" alt="user 1" src="https://github.com/user-attachments/assets/743854d6-1c1d-4c27-98ad-893d663c7371" />
+<img width="1024" height="800" alt="image" src="https://github.com/user-attachments/assets/743854d6-1c1d-4c27-98ad-893d663c7371" />
 
 ## 3.4. Product Backlog
 
@@ -1288,18 +1288,21 @@ Crear Envío Mock-up
 <img width="977" height="853" alt="image" src="https://github.com/user-attachments/assets/c2529bfd-9a4f-4e5b-a56b-645ef3748424" />
 
 Form Validation States:
+
 <img width="670" height="184" alt="image" src="https://github.com/user-attachments/assets/3fab2fbf-b02a-438c-9ffc-dd7443e2cbe2" />
 
 Tracking Mock-up
 <img width="1071" height="805" alt="image" src="https://github.com/user-attachments/assets/13ed95f0-1c64-4344-8bfe-52d7a12576e1" />
 
 Tracking Not Found State:
+
 <img width="589" height="270" alt="image" src="https://github.com/user-attachments/assets/49a0d9a9-9fc2-4e55-b977-6cfbe65b4520" />
 
 Cotización Mock-up
 <img width="1002" height="727" alt="image" src="https://github.com/user-attachments/assets/0840d974-e09c-4145-b033-c3b335053db0" />
 
 Selected Courier State:
+
 <img width="736" height="368" alt="image" src="https://github.com/user-attachments/assets/44c0fc93-3307-412b-83d0-a354d91ed04e" />
 
 Notificaciones Mock-up
@@ -1370,8 +1373,8 @@ Este flujo implementa el épico de sistema de notificaciones automáticas, crít
 
 5. Flujo de Tracking Público: Cliente Final
 
-User Flow: Cliente Rastreando su Envío
-<img width="670" height="1163" alt="mermaid-diagram-2025-09-19-132931" src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" />
+### User Flow: Cliente Rastreando su Envío
+<img width="670" height="1000" alt="mermaid-diagram-2025-09-19-132931" src="https://github.com/user-attachments/assets/7a88b82d-df3d-4deb-a929-fab157bec981" />
 
 
 Explicación del Flujo:
@@ -1379,7 +1382,7 @@ Este flujo representa el épico de tracking unificado desde la perspectiva del c
 
 6. Flujo B2B: Administrador Logístico
 
-User Flow: Gestión Diaria de Operaciones
+### User Flow: Gestión Diaria de Operaciones
 <img width="670" height="1163" alt="mermaid-diagram-2025-09-19-133008" src="https://github.com/user-attachments/assets/d59be7c9-d112-4837-9229-5393669963f4" />
 
 
@@ -1403,8 +1406,9 @@ OPTIMIZACIONES:
 
 7. Flujo E-commerce: Emprendedor PyME
 
-User Flow: Integración y Escalabilidad
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133128" src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" />
+### User Flow: Integración y Escalabilidad
+
+<img width="550" height="800" alt="mermaid-diagram-2025-09-19-133128" src="https://github.com/user-attachments/assets/ec12a91f-0f8e-4de3-a7c5-035152a91716" />
 
 
 
@@ -1426,8 +1430,9 @@ AHORRO: 4.6 horas/día = 23 horas/semana = 92 horas/mes
 
 8. Flujo de Conversión: Free Trial → Paid Plan
 
-User Flow: Monetización Efectiva
-<img width="670" height="1187" alt="mermaid-diagram-2025-09-19-133313" src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" />
+### User Flow: Monetización Efectiva
+
+<img width="550" height="800" alt="mermaid-diagram-2025-09-19-133313" src="https://github.com/user-attachments/assets/1edf9eb5-2dbb-4c6e-9f27-8a9a66f026f0" />
 
 
 
@@ -1482,86 +1487,86 @@ Link de figma: https://www.figma.com/design/JCyLEghztY7QwnrYHAJvRH/sendify?m=aut
 
 ##### Step 1
 
-<img src="https://files.catbox.moe/1macqs.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/1macqs.jpg" alt="Eduardo image" width="543" height="462">
 
 ##### Step 2
 
-<img src="https://files.catbox.moe/8jtdh2.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/8jtdh2.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 3
 
-<img src="https://files.catbox.moe/308077.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/308077.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 4
 
-<img src="https://files.catbox.moe/plvpt7.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/plvpt7.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 5
 
-<img src="https://files.catbox.moe/9odey4.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/9odey4.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 6
 
-<img src="https://files.catbox.moe/5vziry.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/5vziry.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 7
 
-<img src="https://files.catbox.moe/wrl396.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/wrl396.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 8
 
-<img src="https://files.catbox.moe/o24mzn.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/o24mzn.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 9
 
-<img src="https://files.catbox.moe/7ikhaa.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/7ikhaa.jpg" alt="Eduardo image" width="543" height="462">
 
 
 ##### Step 10
 
-<img src="https://files.catbox.moe/mthrle.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/mthrle.jpg" alt="Eduardo image" width="543" height="462">
 
 
 #### 4.6.2. Software Architecture Context Diagram
 
-<img src="https://files.catbox.moe/h7gr3z.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/h7gr3z.png" alt="Eduardo image" width="543" height="462">
 
 
 #### 4.6.3.  Software Architecture Container Diagrams
 
-<img src="https://files.catbox.moe/fobfiv.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/fobfiv.png" alt="Eduardo image" width="543" height="462">
 
-<img src="https://files.catbox.moe/v7pvev.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/v7pvev.png" alt="Eduardo image" width="543" height="462">
 
 #### 4.6.4.  Software Architecture Components Diagrams
 
 #### Componente 1
-<img src="https://files.catbox.moe/ocw93f.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/ocw93f.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 2
-<img src="https://files.catbox.moe/9qra1k.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/9qra1k.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 3
-<img src="https://files.catbox.moe/tnsaft.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/tnsaft.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 4
-<img src="https://files.catbox.moe/nlgzuf.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/nlgzuf.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 5
-<img src="https://files.catbox.moe/0l54uc.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/0l54uc.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 6
-<img src="https://files.catbox.moe/vfgk7q.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/vfgk7q.png" alt="Eduardo image" width="543" height="462">
 
 #### Componente 7
-<img src="https://files.catbox.moe/9bfhip.png" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/9bfhip.png" alt="Eduardo image" width="543" height="462">
 
 ###  4.7. Software Object-Oriented Design 
 ###  4.7.1 Class Diagrams
@@ -1863,11 +1868,11 @@ Durante este sprint se priorizaron las funcionalidades esenciales que permiten l
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-<img src="https://files.catbox.moe/jzaemh.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/jzaemh.jpg" alt="Eduardo image" width="949" height="436">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-<img src="https://files.catbox.moe/8pktpe.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/8pktpe.jpg" alt="Eduardo image" width="949" height="436">
 
 A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios en el aplicación, abarcando desde la configuración de rutas hasta la lógica de negocio y la presentación de datos al usuario:
 
@@ -1887,7 +1892,7 @@ Durante este segundo sprint se observó una mejor coordinación en GitHub median
 Se establecieron reuniones de daily scrums breves para monitorear el progreso y resolver bloqueos técnicos.
 Además, el uso de Trello permitió una visualización clara del avance y priorización de tareas, lo que facilitó el cumplimiento de los objetivos planificados.
 
-<img src="https://files.catbox.moe/i1oi5c.jpg" alt="Eduardo image" width="200">
+<img src="https://files.catbox.moe/i1oi5c.jpg" alt="Eduardo image" width="949" height="436">
 
 
 ### 5.2.3. Sprint 3
@@ -2003,7 +2008,7 @@ Enlace para acceder al Trello: [Trello Sprint Backlog 3](https://trello.com/invi
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img src="https://files.catbox.moe/07etdo.png" alt="Eduardo image" width="400">
+<img src="https://files.catbox.moe/07etdo.png" alt="Eduardo image" width="949" height="436">
 
 
 Link: https://backsendify-5.onrender.com/swagger/index.html
@@ -2013,9 +2018,9 @@ Link: https://backsendify-5.onrender.com/swagger/index.html
 
 Se contempla los servicios de Mysql, con Swagger y OpenAPI para la creación de la documentación interactiva y además de la conección con BD.
 
-<img src="https://files.catbox.moe/rcukfb.pn" alt=" image" width="400">
+<img src="https://files.catbox.moe/rcukfb.png" alt=" image" width="400">
 
-<img src="https://files.catbox.moe/rcukfb.pn" alt=" image" width="400">
+<img src="https://files.catbox.moe/rcukfb.png" alt=" image" width="400">
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
