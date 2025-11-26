@@ -723,7 +723,7 @@ Para la realización del User Task Matrix consideramos las tareas y acciones fre
 ---
 
 ### 2.4 Big Picture Event Storming
-
+-----------------------------cambiar------------------------------------------------------------------------------
 <img width="1100" alt="55" src="https://github.com/user-attachments/assets/fadc4419-3120-487c-b309-b6b0a1b48c38" />
 
 ---
@@ -824,8 +824,8 @@ Para la realización del User Task Matrix consideramos las tareas y acciones fre
 
 Logo:
 
-El logo de Sendify simboliza **movimiento, rapidez y confianza en
-los envíos**. Su diseño incluye flechas y trayectorias estilizadas que
+El logo de Sendify simboliza movimiento, rapidez y confianza en
+los envíos. Su diseño incluye flechas y trayectorias estilizadas que
 evocan la conexión logística, apoyado en colores vibrantes que
 transmiten innovación y seguridad. Debajo del isotipo se ubica el nombre
 Sendify en tipografía geométrica, reforzando la identidad
@@ -835,7 +835,7 @@ height="1.3645833333333333in"}
 
 ### Tipografía  
 
-La tipografía de *Sendify* debe garantizar *claridad, modernidad y legibilidad, especialmente en dispositivos móviles y *dashboards web.  
+La tipografía de *Sendify* debe garantizar claridad, modernidad y legibilidad, especialmente en dispositivos móviles y dashboards web.  
 
 | Elemento UI       | Tipografía elegida | Tamaño |
 |-------------------|--------------------|--------|
@@ -852,15 +852,15 @@ el Gobierno del Perú (2021a) en sus indicaciones de tamaño de letra para
 apps de escritorio y móviles
 
 
-PALETA DE COLORES*
+PALETA DE COLORES
 
 <img src="https://github.com/user-attachments/assets/b0fcace7-b643-485c-b2db-c31dfebe5782" alt="2" width="350">
 
 
 *Nota*. Elaboración propia. [agrego link](https://www.canva.com/design/DAGzZ8xAuW0/RIXBCF5lGOnOKQcTppZbWA/edit?utm_content=DAGzZ8xAuW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-La paleta de colores de Sendify transmite **tecnología, dinamismo y
-confianza**. Se busca una experiencia visual clara, con colores que
+La paleta de colores de Sendify transmite tecnología, dinamismo y
+confianza. Se busca una experiencia visual clara, con colores que
 guíen al usuario en cada etapa de su envío.
 
 -   #111111 → Negro carbón: Fondo principal, solidez, base de
@@ -878,9 +878,9 @@ guíen al usuario en cada etapa de su envío.
 -   #EF4444 → Rojo estado retraso/error: Alertas y notificaciones
     > críticas.
 
-Esta paleta se inspira en el mundo del transporte: **oscuridad como base
+Esta paleta se inspira en el mundo del transporte: oscuridad como base
 sólida, acentos cálidos para dinamismo y colores funcionales para
-estados logísticos.**
+estados logísticos.
 
 ### Header  
 
@@ -901,8 +901,8 @@ Estas resoluciones fueron establecidas por los datos proporcionados por el *Gobi
 Sección de destinos:
 
 La sección de destinos tendrá fondo #FFFFFF con un padding vertical
-de 60px, encabezado centrado en tipografía Sans Serif de **28px
-en negrita y una frase introductoria de 16px**; las opciones se
+de 60px, encabezado centrado en tipografía Sans Serif de 28px
+en negrita y una frase introductoria de 16px; las opciones se
 organizarán en tarjetas responsivas de 300px de ancho, fondo
 blanco con esquinas redondeadas de 10px, sombra ligera y separación
 de 20px, cada una con una imagen superior de 100x100px, un
@@ -912,8 +912,8 @@ limpia, moderna y clara.
 
 Footer:
 
-El footer de Sendify tendrá un fondo #1A1A1A con **40px de
-padding, texto en #E0E0E0 y enlaces en #FFFFFF** que cambian a
+El footer de Sendify tendrá un fondo #1A1A1A con 40px de
+padding, texto en #E0E0E0 y enlaces en #FFFFFF que cambian a
 #F97316 al pasar el cursor; el texto legal se mostrará en
 #7D7F82 con tamaño de 12--14px, alineado al centro en móviles y
 en columnas en pantallas grandes, mientras que el botón flotante será un
@@ -925,18 +925,18 @@ la estética SaaS oscura y profesional de Sendify.
 
 Brand Voice language:
 
-El lenguaje de marca de Sendify debe transmitir **confianza, cercanía y
-claridad, con un tono educativo, motivador y accesible** que
-mantenga el profesionalismo; los mensajes serán **positivos,
-inspiradores y orientados a la acción**, fomentando que el usuario
+El lenguaje de marca de Sendify debe transmitir confianza, cercanía y
+claridad, con un tono educativo, motivador y accesible que
+mantenga el profesionalismo; los mensajes serán positivos,
+inspiradores y orientados a la acción, fomentando que el usuario
 sienta a Sendify como un aliado confiable en la gestión de sus envíos.
 
 ### *4.1.1. General Style Guidelines*
 
 ### Identidad centrada en el usuario
 
-Sendify está diseñada para **resolver las necesidades reales de
-logística** de empresas y usuarios. La experiencia debe sentirse
+Sendify está diseñada para resolver las necesidades reales de
+logística de empresas y usuarios. La experiencia debe sentirse
 confiable, rápida y sin fricciones, con interfaces que simplifiquen el
 proceso de envío y seguimiento.
 
@@ -968,10 +968,10 @@ Los módulos deben organizarse en bloques lógicos:
 
 ### Visualización como herramienta
 
-Los gráficos y mapas interactivos deben mostrar **rutas en tiempo real,
+Los gráficos y mapas interactivos deben mostrar rutas en tiempo real,
 comparativas de costos, porcentajes de cumplimiento y proyecciones de
 entrega. La estética debe ser moderna pero funcional: lo visual debe
-ayudar a tomar decisiones logísticas rápidas.**
+ayudar a tomar decisiones logísticas rápidas.
 
 ### Lenguaje gráfico coherente
 
@@ -1000,8 +1000,8 @@ importante (estado de envíos, alertas) siempre sea visible de inmediato.
 
 Enfoque inclusivo y accesible
 
-Se debe asegurar **contraste suficiente, compatibilidad con lectores de
-pantalla y botones accesibles** para todo tipo de usuarios.
+Se debe asegurar contraste suficiente, compatibilidad con lectores de
+pantalla y botones accesibles para todo tipo de usuarios.
 
 ### Rendimiento optimizado
 
@@ -1011,14 +1011,14 @@ ligera para que el usuario siempre tenga información al instante.
 
 ### Validación constante
 
-La plataforma debe probarse con distintos perfiles de usuario: **pymes,
-couriers, clientes finales**, en diferentes dispositivos y entornos de
+La plataforma debe probarse con distintos perfiles de usuario: pymes,
+couriers, clientes finales, en diferentes dispositivos y entornos de
 conectividad. Las métricas de satisfacción y rapidez de uso serán clave.
 
 ### Relación emocional con el producto
 
-Más que un sistema de logística, **Sendify debe sentirse como un aliado
-de confianza**. Su diseño, lenguaje y gráficos deben transmitir
+Más que un sistema de logística, Sendify debe sentirse como un aliado
+de confianza. Su diseño, lenguaje y gráficos deben transmitir
 seguridad, eficiencia y simplicidad: que cada usuario sienta que tiene
 el control total de sus envíos.
 
@@ -2017,8 +2017,6 @@ Link: https://backsendify-5.onrender.com/swagger/index.html
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 Se contempla los servicios de Mysql, con Swagger y OpenAPI para la creación de la documentación interactiva y además de la conección con BD.
-
-<img src="https://files.catbox.moe/rcukfb.png" alt=" image" width="400">
 
 <img src="https://files.catbox.moe/rcukfb.png" alt=" image" width="400">
 
